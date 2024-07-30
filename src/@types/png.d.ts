@@ -1,0 +1,1 @@
+declare module '*.png'; //criando um tipo que aceita qualquer arquivo .png
